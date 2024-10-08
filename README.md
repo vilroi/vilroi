@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - Languages: C, Bash
 - Currently learning: Go, Rust
 - Platforms: Linux
-- Interests: Low Level programming (Systems programming) + α
+- Interests: Low Level Programming (Systems Programming) + α
