@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![vilroi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilroi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+- Languages: C, Bash
+- Currently learning: Go, Rust
+- Platforms: Linux
+- Interests: Low Level programming (Systems programming) + α
