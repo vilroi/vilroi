@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - Currently learning: Go, Rust
 - Platforms: Linux
 - Interests: Low Level Programming (Systems Programming) + α
+- Avatar Art Work by: [NIRA](https://www.pixiv.net/en/artworks/91737451)
