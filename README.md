@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - Languages: C, Bash, Go
-- Currently learning: Rust
 - Platforms: Linux
 - Interests: Low Level Programming (Systems Programming) + α
 <!--- Profile Art Work By: [NIRA](https://www.pixiv.net/en/artworks/91737451)-->
